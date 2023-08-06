@@ -2,8 +2,8 @@
 
 ## SignUp Page
 
-![Sign Up Page](https://imgur.com/a/DMwmPZ4)
+![Sign Up Page](assets/login.png)
 
 
 ## Login Page
-![Login Page](https://imgur.com/a/ZrsSZWc)
+![Login Page](assets/signup.png)
